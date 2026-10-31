@@ -1,1 +1,33 @@
-tiktok-developers-site-verification=PSnVuIeFB45lwcy1DDzR2RK14LO9bJIA
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy | AI Social Automation</title>
+  <style>body{font-family:Arial,sans-serif;max-width:820px;margin:7vh auto;padding:0 24px;line-height:1.65;color:#202124}a{color:#1457b8}</style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> October 31, 2026</p>
+  <p>This policy describes the intended privacy approach for the AI Social Automation project, which is currently in development. It must be reviewed and updated to accurately reflect the live application's actual data collection, processing, sharing, security, and retention practices before the application is launched or used with real users.</p>
+
+  <h2>Information and platform data</h2>
+  <p>The application may process information that a user chooses to provide and information made available through connected social media accounts, subject to the permissions the user authorizes. This may include basic profile information, account statistics, video or post information, and content the user selects for publishing.</p>
+
+  <h2>How information may be used</h2>
+  <p>Information may be used to connect authorized accounts, support social media publishing workflows, display account or content analytics, maintain and troubleshoot the service, and protect the service against misuse.</p>
+
+  <h2>Sharing and third parties</h2>
+  <p>The application may rely on third-party services and social media platforms to provide its functionality. The actual providers, information shared with them, and applicable platform terms must be documented here before launch.</p>
+
+  <h2>Storage, security, and retention</h2>
+  <p>The application's actual storage locations, security measures, retention periods, and deletion procedures must be documented here before launch. Do not assume that information is stored or deleted in a particular way until the implementation has been verified.</p>
+
+  <h2>Your choices and requests</h2>
+  <p>You may contact us with questions or requests concerning information associated with your use of the application. Requests will be handled in accordance with applicable law and the application's verified capabilities.</p>
+
+  <h2>Contact</h2>
+  <p>For privacy questions, contact <a href="mailto:osujikennedy32@gmail.com">osujikennedy32@gmail.com</a>.</p>
+  <p><a href="index.html">Home</a> · <a href="terms.html">Terms of Service</a></p>
+</body>
+</html>
